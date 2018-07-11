@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My BMI CalculatorPS</string>
+    <string name="btncalc">calculate</string>
+    <string name="btnreset">Reset Data</string>
+    <string name="tvenhancement"></string>
+    <string name="calcDate"></string>
+    <string name="calcBMI"></string>
+    <string name="tvdate"></string>
+</resources>
